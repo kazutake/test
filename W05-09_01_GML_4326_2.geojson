@@ -30,8 +30,7 @@
             ]
             },
         "properties": {
-            "KP": "5.4",
-            "LINK": "<a href=https://yahoo.co.jp>yahoo</a>"
+            "KP": "<a href=https://yahoo.co.jp>5.4</a>"
             
         }
     },
