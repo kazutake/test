@@ -4,7 +4,7 @@
       {
         "type": "Feature",
         "properties": {
-            "popupContent": "<a href='https://yahoo.co.jp'>丸の内ビルディングです。</a>"
+            "KP": "<a href=https://yahoo.co.jp>5.4</a>"
         },
         "geometry": {
           "type": "LineString",
@@ -55,7 +55,7 @@
       {
         "type": "Feature",
         "properties": {
-            "popupContent": "<a href='https://yahoo.co.jp'>丸の内ビルディングです。</a>"
+            "KP": "<a href=https://yahoo.co.jp>5.4</a>"
         },
         "geometry": {
           "type": "LineString",
@@ -74,7 +74,7 @@
       {
         "type": "Feature",
         "properties": {
-            "popupContent": "<a href='https://yahoo.co.jp'>丸の内ビルディングです。</a>"
+            "KP": "<a href=https://yahoo.co.jp>5.4</a>"
         },
         "geometry": {
           "type": "LineString",
