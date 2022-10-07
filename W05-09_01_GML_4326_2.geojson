@@ -3,6 +3,9 @@
     "features": [
       {
         "type": "Feature",
+        "properties": {
+            "popupContent": "<a href='https://yahoo.co.jp'>丸の内ビルディングです。</a>"
+        },
         "geometry": {
           "type": "LineString",
           "coordinates": [
@@ -15,13 +18,13 @@
               43.13753663295469
             ]
           ]
-        },
-        "properties": {
-            "popupContent": "<a href='https://yahoo.co.jp'>丸の内ビルディングです。</a>"
         }
       },
       {
         "type": "Feature",
+        "properties": {
+            "popupContent": "<a href='https://yahoo.co.jp'>丸の内ビルディングです。</a>"
+        },
         "geometry": {
           "type": "LineString",
           "coordinates": [
@@ -34,11 +37,13 @@
               43.123756063284844
             ]
           ]
-        },
-        "properties": {}
+        }
       },
       {
         "type": "Feature",
+        "properties": {
+            "popupContent": "<a href='https://yahoo.co.jp'>丸の内ビルディングです。</a>"
+        },
         "geometry": {
           "type": "LineString",
           "coordinates": [
@@ -51,13 +56,13 @@
               43.108719173446495
             ]
           ]
-        },
-        "properties": {
-            "popupContent": "<a href='https://yahoo.co.jp'>丸の内ビルディングです。</a>"
         }
       },
       {
         "type": "Feature",
+        "properties": {
+            "popupContent": "<a href='https://yahoo.co.jp'>丸の内ビルディングです。</a>"
+        },
         "geometry": {
           "type": "LineString",
           "coordinates": [
@@ -70,9 +75,6 @@
               43.09693769558379
             ]
           ]
-        },
-        "properties": {
-            "popupContent": "<a href='https://yahoo.co.jp'>丸の内ビルディングです。</a>"
         }
       }
     ]
